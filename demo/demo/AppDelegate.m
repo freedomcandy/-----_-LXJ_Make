@@ -1,12 +1,13 @@
 //
 //  AppDelegate.m
-//  SlideImageView
+//  demo
 //
 //  Created by rd on 12-12-17.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012年LXJ_成都. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "DemoViewController.h"
 
 @implementation AppDelegate
 
@@ -17,6 +18,8 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+    DemoViewController* demoViewController = [[DemoViewController alloc]init ];
+    self.window.rootViewController = demoViewController;
     [self.window makeKeyAndVisible];
     return YES;
 }

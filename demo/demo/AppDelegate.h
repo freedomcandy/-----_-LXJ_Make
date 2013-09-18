@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  SlideImageView
+//  demo
 //
 //  Created by rd on 12-12-17.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012年 LXJ_成都. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

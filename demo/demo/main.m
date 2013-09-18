@@ -1,6 +1,6 @@
 //
 //  main.m
-//  SlideImageView
+//  demo
 //
 //  Created by rd on 12-12-17.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
